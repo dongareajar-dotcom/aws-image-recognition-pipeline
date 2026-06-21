@@ -1,0 +1,18 @@
+
+lambda-rekognition-role :
+Policy name 
+	
+Attached entities
+
+##AWSLambdaBasicExecutionRole
+AWS managed
+
+##AmazonS3ReadOnlyAccess
+AWS managed
+
+##AmazonRekognitionFullAccess
+AWS managed
+
+##AmazonDynamoDBFullAccess
+AWS managed
+
